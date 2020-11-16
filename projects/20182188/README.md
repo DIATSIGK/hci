@@ -103,6 +103,15 @@ Link για αποθετήριο: https://github.com/DIATSIGK/site/blob/master/_
 
 [Σύνδεσμος Αποθετηρίου](https://github.com/DIATSIGK/site)
 
+[Atari-Aventure - Table](https://github.com/DIATSIGK/_gallery/blob/master/atari-adventure.md)
+[Atari Video Computer System - Normal Image](https://github.com/DIATSIGK/site)
+[Atari Video Computer System - 160px Image](https://github.com/DIATSIGK/site)
+
+[Apollo_Guidance_Computer](https://github.com/DIATSIGK/_gallery/blob/master/Apollo_Guidance_Computer.md)
+[Apollo_Guidance_Computer](https://github.com/DIATSIGK/site)
+[Apollo_Guidance_Computer](https://github.com/DIATSIGK/site)
+
+
 1. Καμία επιλογή: Εμφανίζει ολόκληρο το εγχειρίδιο της εντολής.
 $ man printf 
 
