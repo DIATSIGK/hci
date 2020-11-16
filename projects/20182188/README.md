@@ -103,7 +103,7 @@ Link για αποθετήριο: https://github.com/DIATSIGK/site/blob/master/_
 
 Σύνταξη εντολής:  $man [επιλογή]  ['Ονομα Εντολής]
 
-
+![Σύνδεσμος Αποθετηρίου](https://github.com/DIATSIGK/site )
 Παραδείγματα
 1. Καμία επιλογή: Εμφανίζει ολόκληρο το εγχειρίδιο της εντολής.
 $ man printf 
@@ -148,6 +148,21 @@ paradoteo 6
 
     <td><img src="atari-video-computer-system-thumb.jpg" alt="2" width = 360px height = 640px></td>
    </tr> 
-   
+   <tr>
+      <td><img src="atari-video-computer-system-thumb.jpg" alt="3" width = 360px height = 640px></td>
+
+      <td><img src="atari-video-computer-system-thumb.jpg" align="right" alt="4" width = 360px height = 640px>
+  </td>
   </tr>
 </table>
+<image src = "atari-video-computer-system-thumb.jpg" width="160px" height="160px"></image>
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| image | ![](atari-video-computer-system-thumb.jpg?cropResize=160,160) |    $1 |
+
+
+|----|----|----|
+|:--:|:--:|:--:| 
