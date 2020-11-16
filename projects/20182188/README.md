@@ -103,7 +103,7 @@ Link για αποθετήριο: https://github.com/DIATSIGK/site/blob/master/_
 
 Σύνταξη εντολής:  $man [επιλογή]  ['Ονομα Εντολής]
 
-![Σύνδεσμος Αποθετηρίου](https://github.com/DIATSIGK/site )
+! [Σύνδεσμος Αποθετηρίου] (https://github.com/DIATSIGK/site )
 Παραδείγματα
 1. Καμία επιλογή: Εμφανίζει ολόκληρο το εγχειρίδιο της εντολής.
 $ man printf 
